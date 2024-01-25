@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57295dca-bee4-44d0-9ba0-a186a92ef2c5" name="Changes" comment="2D-array-basics">
-      <change afterPath="$PROJECT_DIR$/src/MaxElementArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+    <list default="true" id="57295dca-bee4-44d0-9ba0-a186a92ef2c5" name="Changes" comment="reverse-array">
+      <change afterPath="$PROJECT_DIR$/src/SubArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +23,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "chiraagb"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e3ff1fd2-8a24-47e9-96ee-53739852445f" />
+        <option name="url" value="https://github.com/chiraagb/Java-Foundations---DSA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2bMu58CDUTVEAG6gFzykZHSiTFI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,12 +81,30 @@
       <option name="project" value="LOCAL" />
       <updated>1706038786116</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="max-element-in-array">
+      <option name="closed" value="true" />
+      <created>1706185711219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706185711219</updated>
+    </task>
+    <task id="LOCAL-00004" summary="reverse-array">
+      <option name="closed" value="true" />
+      <created>1706185734868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706185734868</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array-basics" />
     <MESSAGE value="2D-array-basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="2D-array-basics" />
+    <MESSAGE value="max-element-in-array" />
+    <MESSAGE value="reverse-array" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse-array" />
   </component>
 </project>
