@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57295dca-bee4-44d0-9ba0-a186a92ef2c5" name="Changes" comment="rotate-matrix-by-90" />
+    <list default="true" id="57295dca-bee4-44d0-9ba0-a186a92ef2c5" name="Changes" comment="updated-rotate-by-90">
+      <change afterPath="$PROJECT_DIR$/src/Arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,10 +149,27 @@
       <option name="project" value="LOCAL" />
       <updated>1708244160371</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="change-logs">
+      <option name="closed" value="true" />
+      <created>1708244233092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708244233092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated-rotate-by-90">
+      <option name="closed" value="true" />
+      <created>1708244285142</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708244285142</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="array-basics" />
     <MESSAGE value="2D-array-basics" />
     <MESSAGE value="max-element-in-array" />
@@ -157,6 +177,8 @@
     <MESSAGE value="find-all-subarrays" />
     <MESSAGE value="transpose-matrix" />
     <MESSAGE value="rotate-matrix-by-90" />
-    <option name="LAST_COMMIT_MESSAGE" value="rotate-matrix-by-90" />
+    <MESSAGE value="change-logs" />
+    <MESSAGE value="updated-rotate-by-90" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated-rotate-by-90" />
   </component>
 </project>
