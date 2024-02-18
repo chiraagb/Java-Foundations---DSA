@@ -4,9 +4,9 @@ public class RotateBy90 {
 
         transpose(arr);
         reverse(arr);
-        for(int i=0;i<arr.length;i++){
-            for(int j=0;j<arr[0].length;j++){
-                System.out.print(arr[i][j]+" ");
+        for (int[] ints : arr) {
+            for (int j = 0; j < arr[0].length; j++) {
+                System.out.print(ints[j] + " ");
             }
             System.out.println();
         }
